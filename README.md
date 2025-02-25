@@ -4,7 +4,7 @@
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-repo/blog-app.git
+   git clone "https://github.com/sadityak2003/Zarity-Health.git"
    cd blog-app
    ```
 
@@ -26,7 +26,7 @@
 
 ---
 
-## Assumptions & Additional Features
+## Additional Features
 
 - The app fetches blog posts from **Cloud Firestore**.
 - Images are stored via Firestore links.
@@ -50,30 +50,4 @@ void main() {
   );
 }
 ```
-
----
-
-## Project Structure
-```
-lib/
-│-- main.dart                  # Entry point of the app
-│-- src/
-│   ├── models/                # Data models
-│   ├── views/                 # UI screens (BlogListScreen, BlogDetailScreen, etc.)
-│   ├── controllers/           # Business logic and controllers
-│   ├── widgets/               # Reusable UI components (CustomDrawer, Buttons, etc.)
-│   ├── services/              # Firebase services and API calls
-│   ├── providers/             # State management using Provider
-│-- assets/                     # Images and fonts
-│-- pubspec.yaml                # Project dependencies
-```
-
-This structure ensures **modularity, scalability, and maintainability**.
-
----
-
-## Contributions
-Pull requests are welcome! Ensure that you follow best practices and write clean, readable code.
-
-Happy Coding! 🚀
 
