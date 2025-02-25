@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430805975649",
+    "project_id": "zarityhealth-9e1f4",
+    "storage_bucket": "zarityhealth-9e1f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430805975649:android:d2d85575df684a028d6020",
+        "android_client_info": {
+          "package_name": "com.example.zarityhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa9zySx___b50z8hLof6yl42ph1x0L85c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
